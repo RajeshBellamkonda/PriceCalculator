@@ -4,11 +4,11 @@ Customer basket that allows a customer to add products and provides a total cost
 
 ### Available products:
 
-|| Product || Cost  ||
-|----------|---------|
-| Butter   | £0.80   |
-| Milk     | £1.15   |
-| Bread    | £1.00   |
+| Product | Cost  |
+|---------|-------|
+| Butter  | £0.80 |
+| Milk    | £1.15 |
+| Bread   | £1.00 |
 
 
 ### Offers:
@@ -38,8 +38,8 @@ Then the total should be £9.00
 ```
 
 
-## Principles User
+## Principles
 
-- OOP / SOLID principle: Basic principle of structuring and writing the code.
-- KISS principle: Not to over engineer when not needed.
+- OOP / SOLID: Basic principles of structuring and writing the code.
+- KISS: Not to over engineer when not needed.
 - TDD: Adding functionality through testing
